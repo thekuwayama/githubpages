@@ -12,7 +12,7 @@ hasCJKLanguage = true
 
 [params]
     author = "thekuwayama"
-    avatar = "photo.jpg"
+    avatar = "avatar.jpg"
     favicon = "favicon.ico"
     description = """
     Software Developer and Infrastructure Developer.
