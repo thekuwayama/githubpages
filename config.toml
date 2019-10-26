@@ -51,8 +51,13 @@ hasCJKLanguage = true
     weight = 40
 
 [[menu.main]]
+    identifier = "testserver"
+    pre = "<i class='fa fa-link fa-lg'></i>"
+    url = "https://thekuwayama.net/"
+    weight = 50
+
+[[menu.main]]
     identifier = "email"
-    # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:thekuwayama@gmail.com"
-    weight = 50
+    weight = 60
